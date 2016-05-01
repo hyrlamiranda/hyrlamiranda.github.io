@@ -23,5 +23,7 @@ of the default Jekyll theme.
 [github]:https://github.com/hyrlamiranda
 [linkedin]: https://linkedin.com/in/hyrlamiranda
 [stack]:http://stackoverflow.com/users/5744536/hyrla-miranda
+[jekyll]: https://jekyllrb.com/
+[gitpages]: https://pages.github.com/
 
 
