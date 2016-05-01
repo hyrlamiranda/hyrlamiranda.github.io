@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my page!"
 date:   2016-05-01 21:32:34 +0100
 categories: jekyll update
 ---
@@ -18,8 +18,8 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Twitter](http://twitter.com)
+[Github](https://github.com/hyrlamiranda)
+[linkedin](https://linkedin.com/in/hyrlamiranda)
+[stack](http://stackoverflow.com/users/5744536/hyrla-miranda)
+[twitter](http://twitter.com/hyrlamgeek)
